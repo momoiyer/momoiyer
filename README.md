@@ -31,9 +31,7 @@ Most of this work lives in private repos. I'm happy to walk through any of it.
 
 **[Ash Iyer Real Estate](https://www.ashiyer.com)** — A website for a Calgary realtor, with a backend admin system for running themed event registrations and photobooths. Built with Next.js 16, React 19, and Tailwind, with Vitest, Playwright, and axe in the quality gates. Admin access is checked independently in the proxy and in the API routes, and end-to-end tests confirm each check holds on its own.
 
-**Calgary rental market tracker** — A scheduled Python job that snapshots rental listings every two weeks and tracks asking rents, incentives, price cuts, and time on market, linking reposts so a re-post doesn't reset the clock. It stops completely if a site blocks it, and it drops personal information before anything is saved.
-
-**Calgary New Build tracker** — A Python pipeline that collects quick-possession inventory from multiple new-construction builders, merges roughly 1,650 listings into one dataset, and records what changed between runs. It tracks the health of each scraper, so a builder that quietly stops returning data gets noticed.
+**Calgary real estate market data** — Python scrapers and data pipelines that run on a schedule, merge what they collect into one dataset, and record what changed between runs. Each run tracks its own health, so a source that quietly stops returning data gets noticed.
 
 ## 💻 Usually working with
 
