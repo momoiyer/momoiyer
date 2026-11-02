@@ -1,8 +1,10 @@
 # 👋 Hey, I'm Momo.
 
-I'm a Senior Software Engineer in Calgary, and I love what I do: writing code and solving hard problems, especially the ones nobody has fully figured out yet.
+I'm a Senior Software Engineer in Calgary with a strong interest in backend engineering, cloud infrastructure, and system architecture. I enjoy taking complex problems from idea to implementation - designing systems, making architectural decisions, building them, and seeing them through to production.
 
-I'm at my best in startups, where I can own something end to end. I like shaping the design, building the frontend and backend, setting up the infrastructure, shipping it, and looking after it in production. Most recently, I did exactly that for almost three years as a Senior Software Engineer at TOTEC AI Energy, building a full-stack energy software platform.
+I particularly enjoy working in environments where I can take ownership of a problem end-to-end, think through the trade-offs, and build solutions that are both practical and scalable. Working in a startup environment has also given me the opportunity to work closely with technical and business leadership, contribute to product decisions, and take ownership beyond the boundaries of a typical development role
+
+Most recently, I did exactly that for almost three years as a Senior Software Engineer at TOTEC AI Energy, building a full-stack energy software platform.
 
 I'm currently open to senior full-stack, backend, and infra roles.
 
